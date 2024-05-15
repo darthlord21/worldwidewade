@@ -1,0 +1,11 @@
+#msgWade {
+    text-align: center;
+    font-size: 30px;
+}
+
+#center {
+    display: block;
+    margin: auto;
+    object-fit: none;  
+    object-position: center top;  
+} 
